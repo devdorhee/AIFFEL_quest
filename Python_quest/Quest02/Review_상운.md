@@ -1,5 +1,11 @@
-🔑 **PRT(Peer Review Template)**
+# AIFFEL Campus Code Peer Review Templete
+- 코더 : 이준오  
+- 리뷰어 : 임상운  
 
+
+
+
+🔑 **PRT(Peer Review Template)**
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
     - 문제를 완벽히 해결하지는 못했지만 단어를 구성하는데 까지는 완섬됨 
     - 단어들의 중복을 체크하고 최대값을 구하면 해결 될 것 같습니다.
