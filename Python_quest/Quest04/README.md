@@ -1,6 +1,6 @@
 # AIFFEL Campus Code Peer Review Templete
 
--   코더 : 이준오, 김재민
+-   코더 : 이준오, 김재이
 -   리뷰어 : 소다흰
 
 # PRT(Peer Review Template)
